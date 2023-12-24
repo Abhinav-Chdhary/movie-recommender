@@ -1,0 +1,6 @@
+*.pkl
+*.joblib
+*.json
+Procfile
+*.sh
+myenv/
